@@ -1,5 +1,5 @@
 ## About Application
-   - This application has been implemented for the demo purpose. It contains simple checkout functionality with stripe payment (Laravel Cashier Stripe).
+   - This application has been implemented for the demo purpose. It contains simple checkout functionality with stripe payment (Laravel Cashier Stripe) in "Laravel 10"
 
 
 ## Application setup in localhost/server
